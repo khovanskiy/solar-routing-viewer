@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "394290e7a036264adfea709407fcc36f",
+    "revision": "df52b2f5b7eac3703d35a254d66112f6",
     "url": "/solar-routing-viewer/index.html"
   },
   {
-    "revision": "12165b1db60e900be283",
+    "revision": "386c3823b89fa102cdd9",
     "url": "/solar-routing-viewer/static/css/main.ef5f6db0.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/solar-routing-viewer/static/js/2.33c6c62b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "12165b1db60e900be283",
-    "url": "/solar-routing-viewer/static/js/main.94a99078.chunk.js"
+    "revision": "386c3823b89fa102cdd9",
+    "url": "/solar-routing-viewer/static/js/main.ec5c25a0.chunk.js"
   },
   {
     "revision": "0302e6b1a816a6364d5e",
