@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/solar-routing-viewer/precache-manifest.a31e96b213e8acbd3211c53cf293e613.js"
+  "/solar-routing-viewer/precache-manifest.ddd149385405d4aacf7a0d1abe80366a.js"
 );
 
 self.addEventListener('message', (event) => {
